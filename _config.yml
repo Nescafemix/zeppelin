@@ -110,14 +110,14 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueTitle: "Campus Nord"
+venueFeatures: ["Universitat Politècnica de Catalunya"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterHashTag: "GDG Devfest Barcelona"
+twitterFeed: ""
 
 # Partners Block
 organizersTitle: "Organizers"
@@ -137,7 +137,7 @@ ticketsOffers:
  -
   name: "Early Bird"
   price: "Free"
-  priceCurrency: "UAH"
+  priceCurrency: "Euros"
   ticketsNumber: "500"
   ribbon: "Free"
   buyButtonLink: "https://www.eventbrite.es/e/entradas-devfest-barcelona-2015-14961794129"
