@@ -191,7 +191,7 @@ logisticsMapMobileCenterCoordinates: "41.389028,2.112551"
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Lviv"
+directionDetailsTitle: "Get around Barcelona"
 directionDetailsCards:
  - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://www.aena.es/csee/Satellite/Aeropuerto-Barcelona">airport website</a>.'}
  - {title: "Public Transit", information: 'Google Transit is available in Barcelona. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Barcelona.'}
