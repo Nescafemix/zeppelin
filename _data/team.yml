@@ -1,60 +1,59 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Vanessa"
+  surname: "Galcerà"
+  title: "GDG and WTM Organizer"
+  thumbnailUrl: vanessaGalcera.jpg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
-- 
+  - {abbr: "GDG", title: "Google Developer Group Tarragona Organizer"}
+  social:
+  - {name: "google-plus", link: "https://google.com/+VanessaGalcera"}
+  - {name: "twitter", link: "https://twitter.com/vanessagare"}
+  - {name: "site", link: "http://www.vgalcera.wordpress.com/"}
+-
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Rubén"
+  surname: "Serrano"
+  title: "GDG Barcelona Organizer"
+  thumbnailUrl: ruben.jpg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "GDG", title: "Google Developer Group Barcelona"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
-- 
+    - {name: "google-plus", link: "https://google.com/+Rubén"}
+-
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Joan"
+  surname: "Fuentes"
+  title: "GDG Barcelona Organizer"
+  thumbnailUrl: unkown_boy.png
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "GDG", title: "Google Developer Group Barcelona"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+    - {name: "google-plus", link: "https://google.com/112688043472470318916"}
+
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
+  name: "TomasGiS"
+  surname: ""
+  title: "GDG Organizer"
+  thumbnailUrl: TomasGiS.jpg
+  team: true
+  ribbon:
+  - {abbr: "GDG", title: "Google Developer Group Tarragona Organizer"}
+  social:
+  - {name: "google-plus", link: "https://google.com/+TomasGiS"}
+  - {name: "twitter", link: "https://twitter.com/TomasGiS"}
+  - {name: "github", link: "https://github.com/TomasGiS"}
+  - {name: "site", link: "http://www.tomasgis.cat/"}
+-
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
+  name: "Andreu"
+  surname: "Ibáñez"
+  title: "GDG Lleida"
+  thumbnailUrl: andreu.png
+  team: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "google-plus", link: "https://google.com/+AndreuIbáñez"}
