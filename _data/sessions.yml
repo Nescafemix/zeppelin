@@ -44,7 +44,7 @@
   title: "Working with AOSP"
   description: ""
   subtype: presentation
-  speakers: [6,7]
+  speakers: [8]
   language: es
   complexity: "Intermediate"
 
@@ -53,7 +53,7 @@
   title: "From Legacy to Hexagonal Android"
   description: ""
   subtype: presentation
-  speakers: [8]
+  speakers: [6,7]
   language: es
   complexity: "Intermediate"
 
@@ -67,7 +67,7 @@
   complexity: "Intermediate"
 -
   id: 007
-  title: "Inyección de Dependencias con Dagger"
+  title: "La de coña"
   description: ""
   subtype: presentation
   speakers: [8,5]
