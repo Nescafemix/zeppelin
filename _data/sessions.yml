@@ -73,3 +73,59 @@
   speakers: [8,5]
   language: es
   complexity: "Intermediate"
+-
+  id: 101
+  title: "La web física"
+  description: "Andreu Ibàñez, del GDG Lleida, nos introducirá al nuevo paradigma que Google está planteando como experimento en el cual los los Smart Objects nos informarán automáticamente de miles de cosas en la calle o en los interiores de los edificios."
+  subtype: presentation
+  speakers: [20]
+  language: es
+  complexity: "Intermediate"
+-
+  id: 102
+  title: "Android Wear"
+  description: ""
+  subtype: presentation
+  speakers: [21]
+  language: es
+  complexity: "Intermediate"
+-
+  id: 103
+  title: "Cloud"
+  description: ""
+  subtype: presentation
+  speakers: [22]
+  language: es
+  complexity: "Intermediate"
+-
+  id: 104
+  title: "Big Query"
+  description: ""
+  subtype: presentation
+  speakers: [23]
+  language: es
+  complexity: "Intermediate"
+-
+  id: 105
+  title: "Apache Flex"
+  description: ""
+  subtype: presentation
+  speakers: [24]
+  language: es
+  complexity: "Intermediate"
+-
+  id: 106
+  title: "Dart"
+  description: ""
+  subtype: presentation
+  speakers: [25]
+  language: es
+  complexity: "Intermediate"
+-
+  id: 107
+  title: "Polymer"
+  description: ""
+  subtype: presentation
+  speakers: [26]
+  language: es
+  complexity: "Intermediate"

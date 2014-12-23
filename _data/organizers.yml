@@ -7,4 +7,4 @@
   elements: 
     - {name: "GDG Tarragona", description: "GDG Tarragona", link: "http://www.gdgtarragona.net", imageUrl: "tarragona-organizer-logo.svg"}
     - {name: "GDG Lleida", description: "GDG Lleida", link: "http://gdglleida.com", imageUrl: "gdg-lleida-logo.png"}
-    - {name: "Fiberparty", description: "Fiberparty", link: "http://gdgbarcelona.blogspot.com.es/", imageUrl: "fiberpartylogosmall.jpg"}
+    - {name: "Fiberparty", description: "Fiberparty", link: "http://fiberparty.org", imageUrl: "fiberpartylogosmall.jpg"}

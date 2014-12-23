@@ -77,4 +77,80 @@
   social:
   - {name: "google-plus", link: "https://plus.google.com/"}
 
-
+-
+  id: 20
+  name: "Andreu"
+  surname: "Ibáñez"
+  company: ""
+  title: ""
+  bio: "Andreu Ibàñez: Andreu es Project Manager en Ponent 2002, un pyme tecnológica localizada en Lleida. Con 30 años de experiencia en tecnología, siempre ha estado involucrado en este sector IT y disfruta innovando constantemente. Actualmente se dedica la creación de nuevas tecnologías para áreas tan dispares como la Arqueología, clústers de visualización, láseres y drones. Es especialista en el ecosistema de Google, donde es Glass Explorer con la startup ScalarDrone, mentor del Google Summer of Code con los proyectos Liquid Galaxy y CC Extractor, tiene montado una laboratorio único en el mundo para hacer proyectos con las diversas tecnologías de mapas de Google, el Liquid Galaxy LAB, y es además fundador y organizador del Google Developers Group GDG Lleida."
+  thumbnailUrl: andreu.png
+  rockstar: true
+  social:
+  - {name: "google-plus", link: "https://plus.google.com/"}
+-
+  id: 21
+  name: "Joan"
+  surname: "Fuentes"
+  company: "Redbooth"
+  title: "Mobile Software Engineer"
+  bio: ""
+  thumbnailUrl: unkown_boy.png
+  rockstar: true
+  social:
+  - {name: "google-plus", link: "https://plus.google.com/112688043472470318916"}
+-
+  id: 22
+  name: "Nacho"
+  surname: ""
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: unkown_boy.png
+  rockstar: true
+  social:
+  - {name: "google-plus", link: "https://plus.google.com/"}
+-
+  id: 23
+  name: "Javi"
+  surname: ""
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: unkown_boy.png
+  rockstar: true
+  social:
+  - {name: "google-plus", link: "https://plus.google.com/"}
+-
+  id: 24
+  name: "Mario"
+  surname: ""
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: unkown_boy.png
+  rockstar: true
+  social:
+  - {name: "google-plus", link: "https://plus.google.com/"}
+-
+  id: 25
+  name: "Albert"
+  surname: ""
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: unkown_boy.png
+  rockstar: true
+  social:
+  - {name: "google-plus", link: "https://plus.google.com/"}
+-
+  id: 26
+  name: "Ismael"
+  surname: ""
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: unkown_boy.png
+  rockstar: true
+  social:
+  - {name: "google-plus", link: "https://plus.google.com/"}

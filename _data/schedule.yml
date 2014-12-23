@@ -3,6 +3,8 @@
   dateReadable: "January 26"
   tracks: 
     - {title: "Android", color: "#90be4e"}
+    - {title: "Technologies++", color: "#565656"}
+
 
   timeslots:
     - {
@@ -13,12 +15,12 @@
     - {
     	startTime: "9:30",
     	endTime: "10:30",
-    	sessionIds: [001]
+    	sessionIds: [001,101]
     }
     - {
         startTime: "10:30",
         endTime: "11:30",
-        sessionIds: [002]
+        sessionIds: [002,102]
     }
     - {
         startTime: "11:30",
@@ -28,12 +30,12 @@
     - {
     	startTime: "12:00",
     	endTime: "13:00",
-    	sessionIds: [003]
+    	sessionIds: [003,103]
     }
     - {
         startTime: "13:00",
         endTime: "14:00",
-        sessionIds: [004]
+        sessionIds: [004,104]
     }
     - {
         startTime: "14:00",
@@ -43,15 +45,15 @@
     - {
         startTime: "15:30",
         endTime: "16:30",
-        sessionIds: [005]
+        sessionIds: [005,105]
     }
     - {
         startTime: "16:30",
         endTime: "17:30",
-        sessionIds: [006]
+        sessionIds: [006,106]
     }
     - {
         startTime: "17:45",
         endTime: "18:15",
-        sessionIds: [007]
+        sessionIds: [007,107]
     }
