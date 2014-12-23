@@ -72,7 +72,7 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "600", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "900", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "9", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
  - {count: "6", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
  - {count: "2", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
@@ -125,7 +125,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
-subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+subscribeAction: "http://gdgtarragona.us5.list-manage1.com/subscribe?u=987d9e301685fd9fc2ee0d91f&id=6d7150eb4d"
 subscribeInfo: "Registration is now open!!"
 
 # Tickets Block
@@ -136,7 +136,7 @@ ticketsOffers:
   name: "Early Bird"
   price: "Free"
   priceCurrency: "Euros"
-  ticketsNumber: "500"
+  ticketsNumber: "900"
   ribbon: "Free"
   buyButtonLink: "https://www.eventbrite.es/e/entradas-devfest-barcelona-2015-14961794129"
   buyButtonText: "Buy Now"
