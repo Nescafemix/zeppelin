@@ -14,10 +14,10 @@ title: "GDG DevFest Season 2015"
 email: "gdgbarcelona@gmail.com "
 description: "GDG DevFest is a set of events all around the world"
 baseurl: "/zeppelin"
-url: "http://gdgbarcelona.github.io"
+url: "http://http://bcn.gdgdevfest.com/"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-57928606-1"
-googleAnalyticsSiteUrl: "gdgbarcelona.github.io"
+googleAnalyticsSiteUrl: "http://bcn.gdgdevfest.com/"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
