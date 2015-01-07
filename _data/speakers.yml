@@ -5,10 +5,10 @@
   company: "Twitter"
   title: ""
   bio: "Israel is an Android engineer working at Twitter. Passionate about Android, object oriented design principles, testing and agile methodologies. Ex @lookout and @feverup. Android developer since 2009. Israel is the cofounder of Barcelona GDG and is also cofounder of @bubiloop and @androides."
-  thumbnailUrl: unkown_boy.png
+  thumbnailUrl: https://lh5.googleusercontent.com/-dH3ht_G9mPU/UT4uO-9bgoI/AAAAAAAATao/mX1vbHt2WVo/s505-no/540989_10151352644207852_1531792575_n.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/"}
+    - {name: "google-plus", link: "https://plus.google.com/+IsraelFerrerCamacho"}
 - 
   id: 4
   name: "Fernando"
